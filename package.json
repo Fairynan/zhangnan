@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "张楠楠的博客后台",
+  "author": "Ezreal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "mysqljs": "0.0.2-security",
+    "ws": "^6.2.0"
+  }
+}
